@@ -2,7 +2,8 @@
 The Flyweight Structural design pattern aims to optimizes memory usage by sharing common data among instances.
 * Separates the permanent and the changing parts
 * Clients provide the changeable, extrinsic state
-* The intrinsic, immutable state gets shared between flyweight objects
+* The intrinsic, immutable state gets shared between flyweight objects.
+
 The pattern reduces memory usage by sharing common objects across multiple contexts.
 
 ## How it works
